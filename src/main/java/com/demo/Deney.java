@@ -8,6 +8,8 @@ public class Deney {
 		System.out.println("deney");
 		System.out.println("deney");
 		System.out.println("deney");
+		System.out.println("deney");
+		System.out.println("deney");
 
 		System.out.println("deney");
 		System.out.println("deney");

@@ -10,4 +10,13 @@ public class Test {
 
 		System.out.println("zj");
 	}
+
+	public static void doHmain(String[] args){
+
+		System.out.println("hahahaha");
+		if(true){
+			System.out.println(88888);
+		}
+
+	}
 }
