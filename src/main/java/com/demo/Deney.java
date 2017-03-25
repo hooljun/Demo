@@ -8,7 +8,9 @@ public class Deney {
 		System.out.println("deney");
 		System.out.println("deney");
 		System.out.println("deney");
-		
+
+		System.out.println("hello");
+		System.out.println("hyw");
 		System.out.println("deney");
 		System.out.println("deney");
 		System.out.println("deney");
